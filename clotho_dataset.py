@@ -9,7 +9,7 @@ import pandas as pd
 from mutagen.wave import WAVE
 
 global_params = {
-    "dataset_dir": "data",
+    "dataset_dir": "data/clotho_v2",
     "audio_splits": ["development", "validation", "evaluation", "test"],
     "text_files": ["development_captions.csv", "validation_captions.csv", "evaluation_captions.csv", "test_captions.csv"]
 }

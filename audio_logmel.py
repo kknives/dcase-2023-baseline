@@ -38,7 +38,7 @@ def log_mel_spectrogram(y,
 # %%
 
 global_params = {
-    "dataset_dir": "data",
+    "dataset_dir": "data/clotho_v2",
     "audio_splits": ["development", "validation", "evaluation", "test"]
 }
 
