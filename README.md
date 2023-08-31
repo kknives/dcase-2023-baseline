@@ -92,6 +92,10 @@ Specifically, the directory structure should be as follows from the baseline roo
      |   | - clotho_captions_development.csv
      |   | - clotho_captions_validation.csv
      |   | - clotho_captions_evaluation.csv
+     |   | - development_captions.csv
+     |   | - evaluation_captions.csv
+     |   | - validation_captions.csv
+     |   | - test_captions.csv
 
 ### Data pre-processing
 
