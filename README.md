@@ -32,7 +32,7 @@ For more information, please refer to the corresponding [DCASE subtask page](htt
 The first step in running the baseline system is to clone this repository on your computer:
 
 ````shell script
-$ git clone git@github.com:felixgontier/dcase-2023-baseline.git
+$ git clone git@github.com:kknives/dcase-2023-baseline.git
 ````
 
 This operation will create a `dcase-2023-baseline` directory at the current location, with the contents of this repository. The `dcase-2023-baseline` will be referred to as the root directory in the rest of this readme.
